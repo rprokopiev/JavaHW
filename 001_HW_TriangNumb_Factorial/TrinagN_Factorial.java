@@ -7,14 +7,16 @@ import java.util.Scanner;
 
 public class TrinagN_Factorial {
     public static void main(String[] args) {
-        int a = Selection("1 - Triangle n \n2 - Factorial n");
+        Scanner scan = new Scanner(System.in);
+        int a = Selection("1 - Triangle n \n2 - Factorial n", scan);
         while (a > 2 || a < 1) {
-            a = Selection("1 - Triangle n \n2 - Factorial n");
+            a = Selection("1 - Triangle n \n2 - Factorial n", scan);
         }
-        int n = Selection("Enter number > 0");
+        int n = Selection("Enter number > 0", scan);
         while (n <= 0) {
-            n = Selection("Enter number > 0");
+            n = Selection("Enter number > 0", scan);
         }
+        scan.close();
         if (a == 1) {
             System.out.println(Triangle(n));
         } else {
@@ -22,9 +24,8 @@ public class TrinagN_Factorial {
         }
     }
 
-    static int Selection(String message) {
+    static int Selection(String message, Scanner scan) {
         System.out.println(message);
-        Scanner scan = new Scanner(System.in);
         int userSelection = Integer.parseInt(scan.nextLine());
         return userSelection;
     }
