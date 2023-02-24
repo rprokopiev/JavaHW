@@ -1,0 +1,32 @@
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 92 moved from index 0 to index 3
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 99 moved from index 3 to index 0
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 82 moved from index 1 to index 0
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 99 moved from index 0 to index 1
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 1 moved from index 2 to index 0
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 82 moved from index 0 to index 2
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 82 moved from index 2 to index 1
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 99 moved from index 1 to index 2
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 92 moved from index 3 to index 2
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 99 moved from index 2 to index 3
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 43 moved from index 4 to index 1
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 82 moved from index 1 to index 4
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 82 moved from index 4 to index 2
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 92 moved from index 2 to index 4
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 92 moved from index 4 to index 3
+февр. 24, 2023 10:40:49 PM BubbleSortWithLog main
+INFO: 99 moved from index 3 to index 4
