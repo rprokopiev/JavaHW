@@ -21,7 +21,7 @@ public class DeleteHonestNumbersFromList {
         }
         return list;
     }
-    
+
     private static ArrayList<Integer> RemoveHonestNumbersFromList(ArrayList<Integer> list){
         for (int i = 0; i < list.size(); i++){
             if (list.get(i)%2 == 0){
